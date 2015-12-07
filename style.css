@@ -8,10 +8,11 @@ body {
 	padding:0;
 	margin:0;
 	font-family: Arial;
+	text-align: center;
 }
 h1{
 	padding-left:10px;
 }
-header{
-	text-align: center;
+a{
+	display:block;
 }
